@@ -1,4 +1,4 @@
-# Compexity Poster
+# The Compexity Poster
 By Lukas Ruge
 
 A Tikz Poster with some Computational Complexity Classes and Problems and definitions.
